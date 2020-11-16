@@ -1,0 +1,456 @@
+
+@media only screen and (max-device-width: 480px) {
+   /* styles for mobile browsers smaller than 480px; (iPhone) */
+    .header-section .header .header-bar .logo-brand img {
+       margin-left: 20%;
+       width: 30em;
+    }
+    .banner .over-lay {
+        height: 100%;
+    }
+    .banner .banner-image {
+        height: 30em;
+        padding-top: 0;
+    }
+    .banner .banner-site .banner-body  {
+        padding: 0;
+        height: 100%;
+    }
+    .banner .banner-image img {
+        height: 100%;
+        width: 10em;
+    }
+    .banner .banner-content {
+        padding-top: 0;
+        margin-bottom: 10em;
+    }
+   
+    .latest .latest-content {
+        padding: 0;
+    }
+    .latest-card {
+        height: 20em;
+        margin-top: 5em;
+        
+    }
+
+    .footer-section .content-us {
+        margin-top: 2em;
+    }
+    .general-section .general-news .news {
+        margin-left: 0;
+    }
+    .general-section .general-news .news .news-content {
+        padding: 0;
+    }
+    .general-section .general-news .news .news-body {
+        padding: 0;
+        margin:0;
+    }
+    .general-section .general-news .news .news-body1 {
+        height: 40rem;
+        margin-top: 2em;
+    }
+    .general-section .general-news .news .solo-photo {
+        margin: 0 !important;
+    }
+    .general-section .row {
+        width: 100%;
+        margin-left: 0;
+    }
+    .general-section .general-news .news .news-body2 {
+        margin-top: 2em;
+    }
+    .general-section .general-news .news .solo-photo{
+        margin-top: 2em;
+        
+    }
+    .general-section .general-news .news .news-body3 {
+        margin: 1em;
+    }
+    .general-section .side-bar {
+        margin-left: 0;
+    }
+    .pagi {
+        margin-left: 40%;
+    }
+    .modal .modal-full {
+        max-width: 80%;
+        
+    }
+    .now-section .first-frame .img-text {
+        height: 15rem;
+    }
+    .now-section .first-frame .img-text p {
+        font-size: 25px;
+    }
+    .owl-carousel.owl-drag .owl-item .item {
+        padding: 3em;
+        height: 30em;
+    }
+    .developer-section .developers .first-developer .developer-photo  {
+        position: static;
+        
+    }
+    .developer-section .developers .first-developer {
+        border-bottom: 5px solid whitesmoke;
+    }
+    .developer-section .developers .second-developer .developer-photo {
+        position: static;
+    }
+    .responsibilities-body:after {
+        position: static;
+    }
+    .responsibilities-body .responsibilities:after {
+        
+        display: none;
+    }
+    .responsibilities-section .responsibilities-content {
+        margin-top: 3em;
+    }
+    .mission-body:after {
+        position: static;
+    }
+    .mission-body .mission:after {
+        position: static;
+        display: none;
+    }
+    .mission-section .mission-content {
+        margin-top: 3em;
+    }
+    .now-section .now-news .second-frame {
+        margin-top: 1em;
+    }
+    .page-footer .content p {
+       padding: 0 2em;
+    }
+    .page-footer .contact p {
+        padding: 0.8em 2em;
+     }
+     .page-footer .health p {
+         padding: 0;
+     }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px){  
+    /* styles for browsers larger than 960px; */
+    .header-section .header .header-bar .logo-brand img {
+        margin-left: 20%;
+        width: 30em;
+        height: 7em;
+    }
+    .banner .over-lay{
+        height: 100%;
+    }
+    .banner .banner-site .banner-body .banner-image img {
+        padding: 0;
+        height: 70%;
+        width: 70%;
+    }
+    .banner .banner-site .banner-body {
+        height: 100%;
+    }
+    .banner .banner-body .banner-content {
+        padding-top: 0;
+        margin-bottom: 10em;
+    }
+    .latest-content {
+        padding: 8em;
+    }
+    .latest-body {
+        padding: 0 5em 3em;
+    }
+    .latest-body .latest-card {
+        height: 25em;
+    }
+   
+    .cover {
+        height: 75vmin;
+    }
+    .benefit-section .row .benefit-content {
+        padding: 0;
+    }
+    .project-area .project-title {
+        padding-bottom: 1em;
+    }
+    .project-area .button-group button {
+        margin-top: 1em;
+    }
+    .footer-section .content-us {
+        margin-top: 2em;
+    }
+    
+    .general-section .row {
+        width: 100%;
+    }
+    .general-section .general-news {
+        padding: 0;
+    }
+    
+    .news .col-12 {
+        padding: 0;
+    }
+    .general-section .general-news .news .news-body2 .new-content2 button {
+        margin-top: 0;
+    }
+    .general-section .general-news .news .solo-photo {
+        margin: 0;
+    }
+    .pagi {
+        margin-left: 40%;
+    }
+    .side-bar{
+        padding: 4em;
+        margin-left: 15px;
+    }
+    .now-section .first-frame .img-text {
+        height: 15rem;
+    }
+    .time-section .time-content {
+        padding: 0 5em;
+    }
+    .now-section .first-frame .img-text p {
+        font-size: 25px;
+    }
+    .owl-carousel.owl-drag .owl-item .item {
+        padding: 3em;
+        height: 30em;
+    }
+    .page-footer p {
+        padding: 0;
+    }
+    .developer-section .developers .first-developer .developer-photo  {
+        position: static;
+        
+    }
+    .developer-section .developers .first-developer {
+        border-bottom: 5px solid whitesmoke;
+    }
+    .developer-section .developers .second-developer .developer-photo {
+        position: static;
+    }
+    .responsibilities-body:after,
+    .responsibilities-body .responsibilities:after {
+        display:none ;
+    }
+    
+    .responsibilities-section .responsibilities-content {
+        margin-top: 3em;
+    }
+    .mission-body:after {
+        position: static;
+    }
+    .mission-body .mission:after {
+        display: none;
+    }
+    .mission-section .mission-content {
+        margin-top: 3em;
+    }
+    .now-section .now-news .second-frame {
+        margin-top: 1em;
+    } 
+    
+    .page-footer .cat-footer p {
+        padding: 0;
+    }
+    .page-footer .health p {
+        padding: 1.2em;
+    }
+    .page-footer .edu p {
+        padding: 1.2em;
+    }
+    .time-section .time-content .item {
+        padding: 2em 8em;
+    }
+    
+    
+}
+@media only screen and (min-width: 1024px) and (max-width: 1496px) {
+    .header-section .header .header-bar .logo-brand img {
+        margin-left: 0;
+        width: 20em;
+        height: 5em;
+        padding-left: 0;
+    }
+    .header-section .header .header-bar .logo-brand img {
+        padding: 0;
+    }
+    .banner {
+        height: 100%;
+    }
+    .banner .banner-body .banner-content h3 {
+        font-size: 40px;
+    }
+    .banner .banner-site .banner-body {
+        margin-top: 4em;
+    }
+    
+    .latest-body {
+        padding: 0 2em;
+    }
+    .latest .latest-content {
+        padding: 0;
+    }
+    .latest-body .latest-card {
+        height: 20em;
+    }
+    .latest-card .thecard .back p {
+        margin-top: 1em;
+        font-size: 25px;
+    }
+    .cover {
+        height: 75vmin;
+    }
+    .benefit-section {
+        width: 100%;
+        padding: 0;
+        margin-top: 4em;
+    }
+    .our-project .img img {
+        border-radius: 50%;
+        width: 15em;
+        height: 15em;
+    }
+    
+    .general-section .general-news .news .news-body {
+        margin: 0;
+        height: 20em;
+    }
+    .general-section .general-news .news .news-body1 .img2 .new-content .news-title {
+        padding: 0;
+        margin: 0;
+        height: 60%;
+    }
+    .general-section .general-news .news .news-body1 .img2 .new-content .news-title h4 {
+        margin-top: 5px;
+    }
+    .general-section .general-news .news .news-body1 .img2 .new-content .news-author {
+        padding: 5px;
+    }
+    .general-section .general-news .news .news-body1 .img2 .new-content .news-author p{
+        margin-bottom: 0;
+    }
+    .general-section .general-news .news .news-body2 .new-content2 .news-title2 h4 {
+        padding: 0;
+        margin: 0;
+    }
+    .general-section .general-news .news .news-body2 .new-content2 {
+        padding: 0;
+    }
+    .general-section .general-news .news .news-body2 .new-content2 .news-info2 p {
+        margin-left: 3em;
+    }
+    .general-section .general-news .news .news-body3 {
+        width: 50%;
+    }
+    .general-section .general-news .news .news-body3 .content3 .new-content3 .news-title3 {
+        height: 50%;
+
+    }
+    .general-section .general-news .news .news-body3 .content3 .new-content3 .news-title3 h4{
+        font-size: 1em;
+    }
+    .general-section .general-news .news .news-body3 .content3 .new-content3 .news-info3 {
+        height: 40%;
+    }
+    .general-section .general-news .news .news-body3 .content3 .new-content3 .news-info3 .news-author3 {
+        margin-left: 0;
+    }
+    .general-section .general-news .news .news-body3 .content3 .new-content3 .news-info3 button {
+        margin-left: 0;
+        height: 4em;
+        font-size: 10px;
+    }
+    .general-section .general-news .news .solo-photo{
+        margin: 0;
+    }
+    .general-section .side-bar {
+        width: 100%;
+    }
+    .general-section .side-bar .all-categories{
+        
+        padding: 0;
+    }
+    .side-bar{
+        padding: 0;
+        margin-left: 0;
+    }
+    .now-section {
+        padding: 5em;
+    }
+    .now-section .now-news .second-frame {
+        margin-top: 2em !important;
+    }
+    .now-section .first-frame .img-text {
+        height: 15rem !important;
+        width: 15em !important;
+    }
+    
+    .time-section .time-content {
+        padding: 0 !important;
+    }
+    .now-section .first-frame .img-text p {
+        font-size: 25px;
+    }   
+    
+    .owl-carousel.owl-drag .owl-item .item {
+        padding: 0;
+        height: 10em;
+    }
+    .page-footer p {
+        padding: 0.5em;
+    }
+    .developer-section .developers .first-developer .developer-photo {
+        height: 30em;
+    }
+    .developer-section .developers .first-developer .developer-photo img {
+        height: 100%;
+    }
+    
+      
+    .responsibilities-section .responsibilities-content {
+        margin-top: 0;
+    }
+    .now-section .now-news .second-frame{
+        margin-top: 0
+    }
+    .now-section .first-frame .img-text {
+        width: 12.5rem;
+        height: 8rem;
+        padding: 0;
+    }
+    .now-section .first-frame .img-text p{
+        margin-bottom: 0;
+    }
+    
+    
+    
+    
+    
+}
+@media only screen and (min-width: 1496px) {
+    /* for sumo sized (mac) screens */
+    .header-section .header .header-bar .logo-brand img {
+        margin-left: 10%;
+        padding-top: 15px;
+        
+    }
+    .latest .container-fluid{
+        max-width: 1500px;
+    }
+    .navbar-expand-lg .navbar-nav {
+        margin-left: 30%;
+    }
+    
+    .developer-section {
+        max-width: 1440px;
+    }
+    .now-section .first-frame .img-text {
+        width: 17.5rem;
+        height: 8rem;
+        padding: 10px;
+    }
+    .now-section .first-frame .img-text p{
+        margin-bottom: 10px;
+    }
+    
+}
